@@ -7,7 +7,7 @@ Developers can use thi CMS-style blog to publish their blog posts and comment on
 
 
 ## Github Pages
-Locate the deployed application here[]
+Locate the deployed application here[https://mvc-tech.herokuapp.com/]
 
 
 ## Used Technologies
